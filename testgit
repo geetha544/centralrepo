@@ -1,3 +1,8 @@
 1st line from mumbaigit
 
+<<<<<<< HEAD
 2nd line from mumbai
+=======
+2nd line from londongit
+
+>>>>>>> 5a90aa68660da9635efd1aeecce0e9a80fc68df3
